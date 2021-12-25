@@ -3,10 +3,9 @@
 ## About the Project
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-This project aimed at using some of the different Machine Learning models from the [```scikit-learn```](https://scikit-learn.org/stable/) library to make Football predictions based on real-world data from $14$ different leagues from the seasons $1990$ to $2021$. The football leagues are:
+This project aimed at using some of the different Machine Learning models from the [```scikit-learn```](https://scikit-learn.org/stable/) library to make Football predictions based on real-world data from *14* different leagues from the seasons *1990* to *2021*. The football leagues are:
 
 ```
 1. 2. Bundesliga
@@ -25,7 +24,7 @@ This project aimed at using some of the different Machine Learning models from t
 14. Serie B
 ```
 
-All the codes were written in the ```Python``` programming language on ```Google Colab```. The $6$ classification ML algorithms that were chosen in this project are:
+All the codes were written in the ```Python``` programming language on ```Google Colab```. The *6* classification ML algorithms that were chosen in this project are:
 
 1. [Logistic Regression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html)
 2. [C-Support Vector Classification](https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html)
@@ -38,7 +37,7 @@ The results of each of the model on the dataset are found in the ```footballPred
 
 ## Acknowledgement
 
-This project was given to me by one of the [```AiCore```](https://www.theaicore.com/) instructor _Blair Martin_ (Email: blair@theaicore.com) as part of a personal project for the **Data Science** pathway.
+This project was given to me by one of the [```AiCore```](https://www.theaicore.com/) instructor **Blair Martin** (Email: blair@theaicore.com) as part of a personal project for the ***Data Science*** pathway.
 
 ## Directory and File Structure
 
